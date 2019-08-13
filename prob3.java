@@ -1,7 +1,7 @@
 public class prob3 {
     public static void main(String[] args) {
 
-        int x = 9;
+        int x = 60;
 
         String result = fizzbuzz(x);
 

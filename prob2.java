@@ -4,6 +4,7 @@ public class prob2 {
         String x = "banana";
         String y = "racecar";
 
+        System.out.println(" Is " + x + " a palindrome? " + palindromeCheck(x));
         System.out.println(" Is " + y + " a palindrome? " + palindromeCheck(y));
     }
 
